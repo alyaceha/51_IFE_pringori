@@ -9,7 +9,7 @@
 
 
 ## Ringkasan Proyek
-Proyek akhir Praktikum Data Science 2026/2027, Informatika UPN "Veteran" Yogyakarta. Proyek ini memprediksi harga kamera digital (USD) dari spesifikasinya dengan regresi (Linear Regression, Ridge, dan Lasso). Sebagai tambahan, kamera dikelompokkan dengan clustering (K-Means dan Hierarchical). Model terbaik adalah Linear Regression dengan RMSE 640,42 USD dan R² 0,369 pada data test, sedangkan baseline memiliki RMSE 806,38 USD.
+Proyek ini dibuat untuk memenuhi mata kuliah Praktikum Data Science yang bertujuan memprediksi harga kamera digital (USD) berdasarkan spesifikasinya menggunakan Linear Regression, Ridge, dan Lasso. Selain pemodelan regresi, proyek ini juga menggunakan K-Means dan Hierarchical Clustering untuk mengelompokkan kamera berdasarkan karakteristiknya. Linear Regression menghasilkan performa terbaik pada data test dengan RMSE 640,42 USD dan R² 0,369, dibandingkan baseline dengan RMSE 806,38 USD.
 
 ## Sumber Data
 1000 Cameras Dataset (Kaggle, pengguna crawford): https://www.kaggle.com/datasets/crawford/1000-cameras-dataset. Lisensi CC BY-SA 3.0. Diakses pada 22 November 2026. File yang dipakai adalah `camera_dataset.csv` (1.038 baris, 13 kolom).
