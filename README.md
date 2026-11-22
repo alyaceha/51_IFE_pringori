@@ -2,7 +2,7 @@
 ## Anggota dan Kontribusi
 | Nama | NIM | Kontribusi |
 |---|---|---|
-| Nayla Cahara Zahira | 123240024 | Business Understanding dan Data Understanding |
+| Nayla Cahaya Zahira | 123240024 | Business Understanding dan Data Understanding |
 | Dzahabbia S. Anjani | 123240037 | EDA, pemeriksaan kualitas data, dan clustering |
 | Alya Choirunnisa | 123240213 | Preprocessing, pemodelan regresi, tuning Ridge dan Lasso, dan pengelolaan repository |
 | Nahdia Izzadina | 123240251 | Evaluasi, analisis kesalahan, kesimpulan, dan README |
