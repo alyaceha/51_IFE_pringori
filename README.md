@@ -1,17 +1,11 @@
 # Project Data Science
-<<<<<<< HEAD
 1. Nayla Cahaya Zahira (123240024)
 2. Dzahabbia S. Anjani (123240037)
 3. Alya Choirunnisa (123240213)
 4. Nahdia Izzadina (123240251)
 
 ## Ringkasan Proyek
-Proyek akhir Praktikum Data Science 2026/2027, Informatika UPN "Veteran" Yogyakarta. Proyek ini memprediksi harga kamera digital (USD) dari spesifikasinya dengan regresi (Linear Regression, Ridge, dan Lasso). Sebagai tambahan, kamera dikelompokkan dengan clustering (K-Means dan Hierarchical). Model terbaik adalah Linear Regression dengan RMSE 640,42 USD dan R² 0,369 pada data test, sedangkan baseline memiliki RMSE 806,38 USD.
-=======
-
-## Ringkasan Proyek
 Proyek ini dibuat untuk memenuhi mata kuliah Praktikum Data Science yang bertujuan memprediksi harga kamera digital (USD) berdasarkan spesifikasinya menggunakan Linear Regression, Ridge, dan Lasso. Selain pemodelan regresi, proyek ini juga menggunakan K-Means dan Hierarchical Clustering untuk mengelompokkan kamera berdasarkan karakteristiknya. Linear Regression menghasilkan performa terbaik pada data test dengan RMSE 640,42 USD dan R² 0,369, dibandingkan baseline dengan RMSE 806,38 USD.
->>>>>>> 4687d59dd778fd3a04443cc0af3582999dc2db98
 
 ## Anggota dan Kontribusi
 | Nama | NIM | Kontribusi |
