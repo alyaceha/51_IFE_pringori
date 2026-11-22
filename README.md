@@ -23,9 +23,3 @@ Proyek ini dibuat untuk memenuhi mata kuliah Praktikum Data Science yang bertuju
 2. Pasang pustaka dengan perintah `pip install pandas numpy matplotlib seaborn scikit-learn jupyter`.
 3. Letakkan `camera_dataset.csv` dan notebook dalam satu folder.
 4. Jalankan `jupyter notebook`, buka notebook `project_ds.ipynb`, lalu pilih Kernel, Restart & Run All.
-
-## Referensi
-
-1. Huguet, C. (2018). 1000 Cameras Dataset [Data set]. Kaggle. [https://www.kaggle.com/datasets/crawford/1000-cameras-dataset](https://www.kaggle.com/datasets/crawford/1000-cameras-dataset)
-2. Chapman, P., Clinton, J., Kerber, R., Khabaza, T., Reinartz, T., Shearer, C., & Wirth, R. (2000). CRISP-DM 1.0: Step-by-step data mining guide. SPSS Inc.
-3. Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Grisel, J., et al. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12, 2825-2830.
